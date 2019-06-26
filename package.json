@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio02clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gapadelarosagu/ejercicio02-apepat.git"
+  },
+  "author": "Gabriela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gapadelarosagu/ejercicio02-apepat/issues"
+  },
+  "homepage": "https://github.com/gapadelarosagu/ejercicio02-apepat#readme",
+  "dependencies": {
+    "number-to-words": "^1.2.4"
+  }
+}
